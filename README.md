@@ -30,3 +30,18 @@ Manual resume screening is time-consuming and prone to human bias. This project 
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Resume-Classification-NLP.git](https://github.com/YOUR_USERNAME/Resume-Classification-NLP.git)
    cd Resume-Classification-NLP
+
+  1. Install dependencies:
+   Bash
+   pip install -r requirements.txt
+   
+  2- Launch Jupyter Notebook:
+   Bash
+   jupyter notebook notebooks/resume-classification.ipynb
+   
+🔮 Future Improvements
+[ ] Perform train_test_split prior to oversampling to completely eliminate data leakage.
+
+[ ] Build an interactive web interface using Streamlit to upload .pdf and .docx resumes directly.
+
+[ ] Experiment with Transformer-based embeddings (e.g., BERT).

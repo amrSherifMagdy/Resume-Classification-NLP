@@ -32,13 +32,13 @@ Manual resume screening is time-consuming and prone to human bias. This project 
    cd Resume-Classification-NLP
 
   2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+     ```bash
+     pip install -r requirements.txt
+     ```
   3. **Launch Jupyter Notebook:**
-   ```bash
-   jupyter notebook notebooks/resume-classification.ipynb
-   ```
+     ```bash
+     jupyter notebook notebooks/resume-classification.ipynb
+     ```
    
 ## 🔮 Future Improvements
 - [ ] Perform `train_test_split` prior to oversampling to completely eliminate data leakage.

@@ -31,13 +31,14 @@ Manual resume screening is time-consuming and prone to human bias. This project 
    git clone [https://github.com/YOUR_USERNAME/Resume-Classification-NLP.git](https://github.com/YOUR_USERNAME/Resume-Classification-NLP.git)
    cd Resume-Classification-NLP
 
-  1. Install dependencies:
+  2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
-   
-  2. Launch Jupyter Notebook:
+   ```
+  3. **Launch Jupyter Notebook:**
    ```bash
    jupyter notebook notebooks/resume-classification.ipynb
+   ```
    
 ## 🔮 Future Improvements
 - [ ] Perform `train_test_split` prior to oversampling to completely eliminate data leakage.

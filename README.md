@@ -39,7 +39,7 @@ Manual resume screening is time-consuming and prone to human bias. This project 
    Bash
    jupyter notebook notebooks/resume-classification.ipynb
    
-🔮 Future Improvements
+##🔮 Future Improvements
 [ ] Perform train_test_split prior to oversampling to completely eliminate data leakage.
 
 [ ] Build an interactive web interface using Streamlit to upload .pdf and .docx resumes directly.

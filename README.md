@@ -35,7 +35,7 @@ Manual resume screening is time-consuming and prone to human bias. This project 
    Bash
    pip install -r requirements.txt
    
-  2- Launch Jupyter Notebook:
+  2. Launch Jupyter Notebook:
    Bash
    jupyter notebook notebooks/resume-classification.ipynb
    
